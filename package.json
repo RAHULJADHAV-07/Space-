@@ -1,0 +1,25 @@
+{
+  "name": "avita-technology",
+  "private": true,
+  "version": "3.0.0",
+  "type": "module",
+  "description": "AVITA Technology — IT agency site, React + R3F + GSAP",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.114.0",
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^11.11.17",
+    "lenis": "^1.1.18",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
